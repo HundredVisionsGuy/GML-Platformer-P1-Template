@@ -1,13 +1,13 @@
 
 {
-    "name": "room0",
+    "name": "rm_1",
     "id": "0435e3b9-d06a-44a9-83db-79e056bb8789",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "dd3063a3-12a3-4b76-b320-13ba30153789"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_1BF17AE","id": "dd3063a3-12a3-4b76-b320-13ba30153789","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1BF17AE","objId": "13142c1d-5469-4e22-96c0-7180d8b48574","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 448,"y": 352}
             ],
             "layers": [
 
@@ -41,9 +41,9 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "0be751e3-7ef3-404f-a723-6781f046417b",
-            "animationFPS": 15,
+            "animationFPS": 60,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4283256141 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
